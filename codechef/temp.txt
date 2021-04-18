@@ -1,0 +1,3 @@
+1) - Need to convert integer to binary
+2) - Then check all the possible combinations , ( x XOR y = given integer number ) 
+3) - Print the result
